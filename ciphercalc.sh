@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -e '\n\n----CipherCalc----\n\n'
 
 #Entropy
