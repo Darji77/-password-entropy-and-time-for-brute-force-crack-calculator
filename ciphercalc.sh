@@ -1,4 +1,4 @@
-echo -e '\n\n----Password entropy and time for brute-force crack calculator----\n\n'
+echo -e '\n\n----CipherCalc----\n\n'
 
 #Entropy
 echo "Password entropy formula: log_2(S^L)"
