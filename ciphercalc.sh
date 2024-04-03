@@ -1,9 +1,11 @@
 #!/bin/bash
 echo -e '\n\n----CipherCalc----\n\n'
 
-#Entropy
+#Formulas
 echo "Password entropy formula: log_2(S^L)"
 echo -e 'Time until guaranteed brute-force crack formula: (2^entropy)/(guesses per second)\n'
+
+#Entropy
 echo "Enter symbol pool (S): "
 read symbolPool
 echo "Enter password lenght (L): "
