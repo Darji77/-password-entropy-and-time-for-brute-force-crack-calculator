@@ -88,7 +88,7 @@ sudo yum install bc
 ## Installation
 
 ```bash
-git clone https://github.com/Darji77/password-entropy-and-time-for-brute-force-crack-calculator.git
+git clone https://github.com/Darji77/CipherCalc.git
 ```
 
 ## Usage
