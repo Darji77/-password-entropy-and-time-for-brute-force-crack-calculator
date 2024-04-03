@@ -93,10 +93,10 @@ git clone https://github.com/Darji77/CipherCalc.git
 
 ## Usage
 
-In your local directory, execute "password-calculator.sh"
+In your local directory, execute "ciphercalc.sh"
 
 ```bash
-bash password-calculator.sh
+bash ciphercalc.sh
 ```
 
 
