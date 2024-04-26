@@ -94,7 +94,7 @@ git clone https://github.com/Darji77/CipherCalc.git
 ## Usage
 Before using the script we must give them executable permissions, in your local directory:
 ```bash
-sudo chmod +x ciphercalc.sh
+chmod +x ciphercalc.sh
 ```
 
 Now you can run it as a program:
